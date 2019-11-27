@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116611" started-at="2019-11-27T17:52:58 IST" finished-at="2019-11-27T17:54:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116611" started-at="2019-11-27T17:52:58 IST" finished-at="2019-11-27T17:54:54 IST">
+      <class name="com.revature.pageObjModel.Tests.TestPageModel">
+        <test-method status="PASS" signature="ConnectionTest()[pri:0, instance:com.revature.pageObjModel.Tests.TestPageModel@527740a2]" name="ConnectionTest" duration-ms="116564" started-at="2019-11-27T17:52:58 IST" finished-at="2019-11-27T17:54:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConnectionTest -->
+      </class> <!-- com.revature.pageObjModel.Tests.TestPageModel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
